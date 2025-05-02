@@ -17,7 +17,7 @@ java Program3
 java Program4 
 ```
 
-Resultat :
+<strong>Resultat :</strong>
 
 Horloge Scalaire : 
 
